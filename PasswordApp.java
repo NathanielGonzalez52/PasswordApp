@@ -116,24 +116,3 @@ class SpecialCharCriteriaException extends Exception {
 	}
 
 }
-			
-//			
-//				
-////			if (!hasNumber || !hasLetter || !hasSpecialChar) {
-////				// Throw CriterError
-////				System.out.println("Missing Criteria");
-////		}
-			
-//	}
-//		}
-//
-//}
-
-//
-//
-//
-
-//
-//
-//	
-//	
